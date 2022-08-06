@@ -1,0 +1,71 @@
+html, body {
+  height: 100%;
+  width: 100%;
+} 
+
+.m-20{
+  margin: 20px 150px;
+} 
+
+.m-10{
+  padding-top: 30px;
+} 
+
+.but button{
+  margin-left: 50px;
+} 
+
+.m-5{
+  margin-top: 20px;
+}
+
+.course {
+	width: 500px;
+	height: 250px;
+/* 	border: 0.5px solid black; */
+  text-align: center;
+	
+}
+
+.Bom div{
+  display: inline-block;
+  
+} 
+
+.Bom {
+  margin-top: 20px;
+}
+
+#quiz {
+	width: 200px;
+  text-align: center;  
+  margin-left: 20px;
+  border: 0.1px solid black; 
+  border-radius: 15px;
+  box-shadow: 5px 8px 8px 5px rgb(220, 246, 247); 
+  background-color: rgb(220, 246, 220);
+}
+#quiz p {
+	line-height: 15px;
+	word-spacing: 1px; 
+} 
+#Jess{
+  margin-left: 20px;
+} 
+
+#quiz img{
+  border-radius: 15px; 
+  margin-top: 5px;
+}
+
+.BOD{
+  margin-left: 20px;
+} 
+#jon{
+  margin-left: 20px;
+}
+
+div .hidden {
+	display: none;
+}
+
